@@ -31,4 +31,4 @@ amount to your clipboard. It never reads your clipboard.
 
 ## Contact
 
-Questions: <your-email@example.com>
+Questions: exprice.dev@gmail.com
